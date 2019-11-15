@@ -1,1 +1,1 @@
-# Tic Tac Toe Unix & C Assignment
+# TicTacToe Unix & C Assignment
