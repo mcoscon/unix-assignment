@@ -8,7 +8,7 @@ In short, the assignment is to:
 * Save the logs to a file.
 
 ## Demo
-
+![demo](ezgif.com-video-to-gif.gif)
 ### Compile and Run
 To compile and run, simply type 'make' on the command line with all the files in the same directory. Once compiled, the program can be run by typing './TicTacToe settings.txt'
 
